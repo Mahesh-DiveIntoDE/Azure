@@ -1,0 +1,7 @@
+{
+	"name": "MacbookToCLoud",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Move files from on-prem to Cloud"
+	}
+}
