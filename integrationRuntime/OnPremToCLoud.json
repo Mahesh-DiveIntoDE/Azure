@@ -1,0 +1,7 @@
+{
+	"name": "OnPremToCLoud",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Runtime for moving files from Windows to AZure"
+	}
+}
