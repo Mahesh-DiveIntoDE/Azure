@@ -1,5 +1,5 @@
 {
-	"name": "DataDictionary",
+	"name": "DataDictionarySource",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "FileLocation",
